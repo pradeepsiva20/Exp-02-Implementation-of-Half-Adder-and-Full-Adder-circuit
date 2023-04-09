@@ -96,8 +96,8 @@ RTL realization
 ### HALF ADDER:
 ![TR 1](https://user-images.githubusercontent.com/120539823/230783868-099e584f-539e-427e-9cc7-6d6fe8f5a93c.png)
 
-### ![TR2](https://user-images.githubusercontent.com/120539823/230783871-dd537e09-c342-4cd6-86f6-79f91cd300db.png)
-FULL ADDER:
+### FULL ADDER:
+![TR2](https://user-images.githubusercontent.com/120539823/230783871-dd537e09-c342-4cd6-86f6-79f91cd300db.png)
 
 ### Result:
 Thus implementation of half adder and full adder circuit are verified
