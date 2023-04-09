@@ -77,6 +77,13 @@ RTL realization
 ### Output:
 ### RTL
 
+### HALF ADDER:
+![PIC1](https://user-images.githubusercontent.com/120539823/230784091-71ed6877-44da-4162-9870-fb70fc1a8323.png)
+
+### FULL ADDER:
+![PIC2](https://user-images.githubusercontent.com/120539823/230784105-fec61967-bb0d-400e-a19d-d45f02566223.png)
+
+
 ### TIMING DIAGRAM
 
 ### HALF ADDER:
