@@ -85,13 +85,6 @@ RTL realization
 ![TT2](https://user-images.githubusercontent.com/120539823/230783721-70d67379-20ed-4d6e-9dd8-5d06fb75f93e.png)
 
 
-
-### HALF ADDER:
-![TTT](https://user-images.githubusercontent.com/120539823/230783812-3de35b4a-29a1-412c-8759-3e478c7ed8c8.png)
-   
-### FULL ADDER
-![TT2](https://user-images.githubusercontent.com/120539823/230783823-939f0c86-b29c-48fb-aef4-548d66f4aba9.png)
-
 ### TRUTH TABLE:
 ### HALF ADDER:
 ![TR 1](https://user-images.githubusercontent.com/120539823/230783868-099e584f-539e-427e-9cc7-6d6fe8f5a93c.png)
